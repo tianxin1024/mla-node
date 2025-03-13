@@ -1,3 +1,4 @@
 build
 tests/__pycache__
 tests/flash_mla_cuda.cpython-310-x86_64-linux-gnu.so
+.cache/clangd/index
